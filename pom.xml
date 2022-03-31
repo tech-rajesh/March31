@@ -28,6 +28,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<suiteXmlFile>testng_31March_jenkins.xml</suiteXmlFile>
+						<suiteXmlFile>testng_31March_jenkins_parallel.xml</suiteXmlFile>
 						<!-- <suiteXmlFile>testng_dragDroptest.xml</suiteXmlFile> -->
 						<!-- <suiteXmlFile>testng_crossBrowserTest.xml</suiteXmlFile> -->
 					</suiteXmlFiles>
